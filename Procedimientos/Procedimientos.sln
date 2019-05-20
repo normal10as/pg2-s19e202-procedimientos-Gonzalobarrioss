@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "21AhoraEs", "Procedimientos\21AhoraEs.vbproj", "{D628240A-704B-4B77-A58B-C6F92D770B4D}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "21AhoraEs", "Procedimientos\21AhoraEs.vbproj", "{D628240A-704B-4B77-A58B-C6F92D770B4D}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "22Nueva_Fecha", "22NuevaFecha\22Nueva_Fecha.vbproj", "{4BEB7BA3-3E07-4CC8-87C6-D9C46FA13534}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "22Nueva_Fecha", "22NuevaFecha\22Nueva_Fecha.vbproj", "{4BEB7BA3-3E07-4CC8-87C6-D9C46FA13534}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "23Hipotenusa", "23Hipotenusa\23Hipotenusa.vbproj", "{9F42BEFE-A64A-442D-82A9-2C3C559874D2}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "23Hipotenusa", "23Hipotenusa\23Hipotenusa.vbproj", "{9F42BEFE-A64A-442D-82A9-2C3C559874D2}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "24VolumenCilindro", "VolumenCilindro\24VolumenCilindro.vbproj", "{00086662-C610-4BEA-9B8D-704E2A4FF216}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "24VolumenCilindro", "VolumenCilindro\24VolumenCilindro.vbproj", "{00086662-C610-4BEA-9B8D-704E2A4FF216}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "25Potencias", "25Potencias\25Potencias.vbproj", "{886524B6-1F60-46D7-AFBF-A424179FBEB4}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "25Potencias", "25Potencias\25Potencias.vbproj", "{886524B6-1F60-46D7-AFBF-A424179FBEB4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "26Acumuladora", "26Acumuladora\26Acumuladora.vbproj", "{BCD6EEDE-3FC1-4D4E-B1B4-C46B00A20568}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "27Sumas", "27Sumas\27Sumas.vbproj", "{F9510CD9-2E5A-4C3E-9351-2FF8EAB800D2}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "28SuperficieFiguras", "28SuperficieFiguras\28SuperficieFiguras.vbproj", "{E5999240-465C-4E96-B706-F3CE138C923E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{886524B6-1F60-46D7-AFBF-A424179FBEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{886524B6-1F60-46D7-AFBF-A424179FBEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{886524B6-1F60-46D7-AFBF-A424179FBEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD6EEDE-3FC1-4D4E-B1B4-C46B00A20568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD6EEDE-3FC1-4D4E-B1B4-C46B00A20568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD6EEDE-3FC1-4D4E-B1B4-C46B00A20568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD6EEDE-3FC1-4D4E-B1B4-C46B00A20568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9510CD9-2E5A-4C3E-9351-2FF8EAB800D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9510CD9-2E5A-4C3E-9351-2FF8EAB800D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9510CD9-2E5A-4C3E-9351-2FF8EAB800D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9510CD9-2E5A-4C3E-9351-2FF8EAB800D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5999240-465C-4E96-B706-F3CE138C923E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5999240-465C-4E96-B706-F3CE138C923E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5999240-465C-4E96-B706-F3CE138C923E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5999240-465C-4E96-B706-F3CE138C923E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
